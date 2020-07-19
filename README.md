@@ -4,7 +4,7 @@ I am an aspiring **software engineer** 💻 with enthusiasm in developing **mach
 
 ### About Me
 
--  Software engineer intern at Apple AI/ML.
+- 🍎 Software engineer intern at Apple AI/ML.
 - 🐾 Proud Carnegie Mellon Tartan.
 - 🛍️ Ex-intern at eBay.
 
