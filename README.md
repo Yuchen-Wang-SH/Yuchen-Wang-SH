@@ -4,8 +4,8 @@ I am an aspiring **software engineer** 💻 with enthusiasm in developing **mach
 
 ### About Me
 
--  A software engineer intern at Apple AI/ML.
-- 🐾 A proud Carnegie Mellon Tartan.
+-  Software engineer intern at Apple AI/ML.
+- 🐾 Proud Carnegie Mellon Tartan.
 - 🛍️ Ex-intern at eBay.
 
 ### Check out my Resume [HERE](https://gist.github.com/Yuchen-Wang-SH/5c50d967fb9bb36f7b51f67c7cae9d09)
