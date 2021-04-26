@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Yuchen Wang
 
-I am an aspiring **software engineer** 💻 with enthusiasm in developing **machine learning and big data systems**.
+I am a **software engineer** 💻 with enthusiasm in developing **machine learning and big data systems**.
 
 ### About Me
 
-- 🍎 Software engineer intern at Apple AI/ML.
+- 🍎 Software Engineer (AI/ML Platform) at Apple. I am building data systems that accelerate the adoption of ML across Apple products and ecosystems.
 - 🐾 Proud Carnegie Mellon Tartan.
 - 🛍️ Ex-intern at eBay.
 
